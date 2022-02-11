@@ -1,7 +1,7 @@
 # Site Template
 Simple Responsive Layout made using CSS Flexbox and GRID
 
-### [Test it here](https://gustavopirro.github.io/Responsive-Flexbox-Grid-Layout/)
+### [Test it here](https://gustavopirro.github.io/ResponsiveFlexboxGridLayout/)
 
 ## Purpose
 
